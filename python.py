@@ -511,6 +511,6 @@ def Video_to_srt():
     w.mainloop()
 
 
-()
+home_page()
 
 
